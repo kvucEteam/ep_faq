@@ -1,0 +1,12 @@
+{
+    "userInterface": {
+        "header": "Spørgsmål til læsefasen",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "instruktion": "Klik på spørgsmålene her på siden. Måske kan de hjælpe dig med at forberede dig til den større skriftlige opgave.",
+        "Placering": "LÆSE"
+    },
+    "faq": [ 
+        ["Hvordan tager jeg notater?", "Notatteknik er meget individuelt. Hvis du vil have konkrete værktøjer hertil, skal du tale med din vejleder. Det er dog altid en rigtig god ide at tage notater, imens man læser."],
+        ["Hvornår skal man i gang med at læse éns materiale?", "Jo tidligere du kan starte processen, desto bedre. Det er en rigtig god idé at have gennemlæst og taget noter til alt det materiale, som man skal bruge til at skrive opgaven, <i><b>inden</b></i> skriveugen begynder."]    
+    ]
+}
