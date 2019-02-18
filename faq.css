@@ -15,6 +15,7 @@
     display: inline-block;
 }
 
+
 .toggle_container {
     margin-top: 20px;
 }
@@ -34,10 +35,10 @@ img {
     /*border: 2px solid #05A0A8;*/
 }
 
-.glyphicon-chevron-down{
+.glyphicon-chevron-down {
     left: -1px;
 }
 
-.glyphicon-chevron-up{
+.glyphicon-chevron-up {
     left: 1px;
 }
