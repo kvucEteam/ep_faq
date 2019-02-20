@@ -1,0 +1,18 @@
+{
+    "userInterface": {
+        "header": "Spørgsmål til valg af fag og emne",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "instruktion": "Klik på spørgsmålene her på siden. Måske kan de hjælpe dig i f.t. dine tvivlsspørgsmål om valg af fag og emne til den større skriftlige opgave.", 
+        "Placering": "EMNEVALG / MATERIALESØGNING"
+    },
+    "faq": [
+
+["Hvornår skal man tilmelde sig eksamensprojektet og hvordan gør man det?","Tilmeldingsdatoen og proceduren fremgår af <a href='https://www.kvuc.dk' target=‘_blank’ >KVUC’s hjemmeside</a> og på <a href='https://www.mit.kvuc.dk' target='_blank'>mit.kvuc.dk</a>"],
+["Hvornår foregår Eksamensprojektet?","Hvis du udarbejder eksamensprojektet i foråret tilmelder du dig normalt i starten af februar, udarbejder derefter i dit eksamensprojekt i de efterfølgende måneder (der er nogle deadlines for godkendelse af emne og problemformulering som du skal være opmærksom på) og afleverer din færdige synopsis i midten af maj. Derefter går du til mundtlig eksamen i den førstkommende eksamensperiode (maj-juni). Hvis du udarbejder eksamensprojektet i efteråret, tilmelder du dig normalt i starten af september, afleverer færdig synopsis i slutningen af november og går til den mundtlige eksamen i den førstkommende eksamensperiode (december-januar)"], 
+["Hvornår er der deadlines til de forskellige dele af Eksamensprojektet?","Du har nogle deadlines undervejs, bl.a. fastlæggelse af emne, godkendelse af problemformulering og aflevering af den færdige synopsis. De præcise datoer ændrer sig fra semester til semester, så det er vigtigt at du orienterer dig om aktuelle deadlines i den køreplan som eksamenskontoret udarbejder for hvert semester."],  
+["Hvornår er EP eksamen?","Hvis du skriver i efteråret vil det være i vintereksamensperioden (december-januar), hvis du skriver i foråret vil det være i sommereksamensperioden (maj-juni)"],
+["Hvor lang tid har man til at forberede sit Eksamensprojekt?","Der er ikke som sådan en tidsbegrænsning. Når du har tilmeldt dig, kan du påbegynde arbejdet, og så har du frem til aflevering af synopsen, hvor du kan arbejde med denne. Efter aflevering af synopsen, kan du stadig arbejde videre med dit eksamensprojekt frem til eksamen."]
+    ]
+}
+
+
