@@ -15,7 +15,7 @@
 console.log("i: " + i);
          //var infowindow = new google.maps.InfoWindow({});
 
-        HTML = '<div class="col-xs-12 fold_ud_objekt"><h4 class="toggle_btn"><span class="toggle_header">'+ js[i][0]+'</span><div class="glyhicontainer"> <span class = "glyphicon glyphicon-chevron-down"> </span> <span class="glyphicon glyphicon-chevron-up"> </span> </div></h4><div class="toggle_container">';
+        HTML = '<div class="col-xs-12 col-md-8 fold_ud_objekt"><h4 class="toggle_btn"><span class="toggle_header">'+ js[i][0]+'</span><div class="glyhicontainer"> <span class = "glyphicon glyphicon-chevron-down"> </span> <span class="glyphicon glyphicon-chevron-up"> </span> </div></h4><div class="toggle_container">';
         HTML += '<div>' + js[i][1] + '</div>';
 
          //HTML += "<img class='img-responsive' src='" + js[i].header_pic + "'>";

@@ -1,9 +1,9 @@
 {
     "userInterface":
     {
-        "header": "Spørgsmål til skriveugen",
+        "header": "Spørgsmål til eksamen",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Skriveugen er lige om hjørnet. Klik på emnerne her på siden og få svar på nogle af dine spørgsmål",
+        "instruktion": "Klik på spørfgsmålene og få svar på spørgsmål onkring eksamen.",
         "Placering": "SKRIVEUGEN"
     },
     "faq": [
