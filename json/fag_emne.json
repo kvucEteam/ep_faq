@@ -1,16 +1,25 @@
 {
     "userInterface": {
-        "header": "Spørgsmål om at finde materialer",
+        "header": "Spørgsmål om fag, emne og materialer",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Klik på spørgsmålene her på siden. Måske kan de hjælpe dig med at finde relevante materialer til den større skriftlige opgave.", 
-        "Placering": "FINDE MATERIALER"
+        "instruktion": "Klik på spørgsmålene her på siden - måske kan de svare på nogle af dine spørgsmål omkring valg af fag, emne og materialer", 
+        "Placering": "Fag, emne og materiale"
     },
     "faq": [
-        ["Skal der laves materialekritik?", "OM DER SKAL?? Nu sidger man at der ikke findes dumme spørgsmål. Men det her tager grisen!!"],
-        ["Hvor må man søge efter materiale?", "Alle steder – men ikke alt materiale er lige godt. Biblioteket er det oplagte sted at starte. Her er der også uddannede bibliotekarer, der kan hjælpe med søgningen. Bøger kan være bedre end artikler på internettet, hvis man skal have et solidt overblik over sit emne, men der er for langt de fleste fags vedkommende også brugbart materiale på nettet. Tal med din vejleder eller en bibliotekar, hvis du har svært ved at komme i gang med din materialesøgning."],
-        ["Hvilken slags materiale må man bruge?", "Det afhænger helt af hvilket fag, du skriver din SSO i, og hvad du skriver om. Her er det vigtigt, at du taler med din vejleder, så du kommer til at arbejde med noget velegnet materiale."],
-        ["Får man tildelt materiale?", "I udgangspunktet skal man selv finde det materiale, man skal bruge til sin opgave, men det er en god idé at tale med vejlederen, der sagtens kan have gode idéer til godt materiale. Det er også muligt, at der <i>med</i> problemformuleringen følger ét eller flere bilag, som du skal inddrage i din besvarelse af problemformuleringen – men det er ikke et krav, at vejlederen vedlægger noget."],
-        ["Er der krav til, hvor meget materiale man skal bruge?", "Der er ikke noget specifikt krav om mængde af materiale, og også her er det en god idé at snakke med vejlederen. Materialemængden kan også variere fra fag til fag og med emnet. Men generelt er det vigtigt, at man læser målrettet, så man ikke bruger en masse tid på at læse materiale, som man ikke har brug for at læse. Skim indholdsfortegnelser, bagsider og indledninger – nogle gange er det måske kun et enkelt kapitel, man kan bruge i en bog."],
-        ["Hvordan ved man, om det materiale man finder er godt/relevant?", "Her må man bruge sin faglige viden, sin kritiske sans – og sin vejleder!"]
+        ["Hvilke fag kan man lave Eksamensprojekt i?", "I alle fag du enten har afsluttet eller er i gang med."],
+        ["Hvad skal Eksamensprojektet handle om?", "Du bestemmer i princippet selv hvilket tværfaglige emne du vil behandle, men dit emne skal godkendes af din vejleder."],
+        ["Hvilke fag kan man kombinere?", "Man kan kombinere frit mellem fag man er i gang med eller har afsluttet."],
+        ["Hvilket niveau skal fagene være på?", "I arbejdet med Eksamensprojektet skal man arbejde på det højeste faglige niveau i fagene man er i gang med eller har afsluttet. Det kan være på A-, B- eller C-niveau."],
+        ["Hvor meget skal man bruge hvert fag?", "Det er vigtigt at hvert fag er synligt i projektet og at de i væsentlig grad supplerer hinanden på en relevant faglig måde. Det ene fag må dog godt vægte mere end det andet."],
+        ["Er der nogle fag der er bedre at skrive Eksamensprojekt i end andre?", "Nej. Du bør vælge fag ud fra en kombination af faglig kompetence og lyst."],
+        ["Hvad vil det sige at Eksamensprojektet er tværfagligt?", "At Eksamensprojektet er tværfagligt vil sige at du skriver det i 2 fag, at din problemformulering skal kunne besvares ved hjælp af de to valgte fag i samspil. Det betyder også at du bør inddrage metoder og teorier og materiale fra begge de valgte fag."],
+        ["Hvor bredt eller smalt skal emnet være?", "Det er en vigtig balance at ramme en faglig problemstilling som hverken begrænser dig i at vise dine faglige kompetencer, samtidig med at emnet ikke må blive for overfladisk behandlet. Du kan orientere dig her på siden for at få en ide om hvad et godt emne er og hvordan man laver problemformuleringer der hverken er for smalle eller for brede."],
+        ["Skal man lave forsøg, og i så fald hvilke, hvis man skriver Eksamensprojekt i naturfag?", "Der er ikke noget krav om at der skal laves forsøg hvis der indgår en naturfag, men det kan være en mulighed som du bør tale nærmere med din vejleder om."],
+        ["Kan man skifte emne?", "Ja, det er muligt at skifte emne frem til skolens interne deadline. Spørg din vejleder herom."],
+        ["Må jeg selv bestemme emnet?", "Ja, du må og bør selv bestemme dit emne. Det er dog en god ide at diskutere dit emnevalg med din vejleder. Orienter dig evt. her på siden om mulige valide emner, fagkombinationer og problemformuleringer."],
+        ["Må man skrive Eksamensprojekt i et emne som man tidligere har skrevet opgave om, fx SSO eller historieopgave?", "Nej, ikke det helt samme emne. Det er et krav at vinklen på emnet skal være ny. Det kan f.eks. være nyt materiale man undersøger, eller at der zoomes ind på specifikke aspekter af det allerede behandlede emne."],
+        ["Hvor finder jeg materiale til mit Eksamensprojekt?", "Det er vigtigt at du først og fremmest sørger for at få lånt bøger på biblioteket, der omhandler dit emne. Hernæst kan du orientere dig i f.eks. videnskabelige artikler, dokumentarfilm, avisartikler m.v.  Spørg din vejleder hvis du er i tvivl om hvor du bedst finder relevant materiale."],
+        ["Hvad er faglig relevant materiale?", "Hvis du er i tvivl om hvorvidt dit materiale er fagligt relevant bør du spørge din vejleder til råds."],
+        ["Må man bruge materiale på andre sprog?", "Ja, engelsk, tysk og fransk, samt de nordiske sprog."]
     ]
 }

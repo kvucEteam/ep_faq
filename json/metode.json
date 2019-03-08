@@ -1,12 +1,14 @@
 {
     "userInterface": {
-        "header": "Spørgsmål til læsefasen",
+        "header": "Spørgsmål til metode og teori",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Klik på spørgsmålene her på siden. Måske kan de hjælpe dig med at forberede dig til den større skriftlige opgave.",
+        "instruktion": "Klik på spørgsmålene her på siden. Måske kan de hjælpe dig med at forberede dig til Eskamensprojektet.",
         "Placering": "LÆSE"
     },
     "faq": [ 
-        ["Hvordan tager jeg notater?", "Notatteknik er meget individuelt. Hvis du vil have konkrete værktøjer hertil, skal du tale med din vejleder. Det er dog altid en rigtig god ide at tage notater, imens man læser."],
-        ["Hvornår skal man i gang med at læse éns materiale?", "Jo tidligere du kan starte processen, desto bedre. Det er en rigtig god idé at have gennemlæst og taget noter til alt det materiale, som man skal bruge til at skrive opgaven, <i><b>inden</b></i> skriveugen begynder."]    
+        ["Må man selv vælge sine metoder?", "Ja, det må du, men det er naturligvis en god idé at tale med din(e) vejleder(e) om hvilke metoder der er velegnet til det emne som du har valgt."],
+        ["Hvor meget bør metodeovervejelser fylde i Eksamensprojektet?", "Eksamensprojektet skal indeholde en oversigt over, hvilke metoder der er anvendt i arbejdet. Da man til den mundtlige prøve har mulighed for at udfolde den afleverede synopsis behøver det ikke at fylde mere end et par linjer."],
+        ["Hvad er en faglig metode?", "En faglig metode er en faglig fremgangsmåde. Fremgangsmåden afhænger af fagets genstand, der er naturligvis stor forskel på at fortolke en tekst i dansk og så undersøge bestemte væskers reaktioner i kemi. Alle fag har metoder. Man kan sammenligne en metode med en bageopskrift: det er dig (forskeren) der laver kagen, men det er opskriften (metoden) der sørger for at du gør tingene på en bestemt måde, at du f.eks. ikke finder på at komme alt muligt i kagen, så den kommer til at smage anderledes end den skal."],
+        ["Hvad er en faglig teori og hvilken rolle skal den spille i Eksamensprojektet?", "Alle fag er baseret på og arbejder med teorier. En faglig teori er et sæt antagelser eller forestillinger om, hvordan noget hænger sammen inden for et bestemt område. Det kan i fysik være en teori om, hvorfor ting falder ned mod Jorden. I religion en teori om, hvorfor nogle mennesker er religiøse. I samfundsfag en teori om, hvordan en økonomisk krise påvirker den politiske udvikling. Og på samme måde i andre fag. Afhængigt af hvilket fagligt niveau et fag indgår i Eksamensprojektet vil der være forskellige forventninger om inddragelse af faglig teori. Det forventes normalt altid i fag på A- og B-niveau."]    
     ]
 }

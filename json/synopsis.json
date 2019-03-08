@@ -1,21 +1,21 @@
 {
     "userInterface": {
-        "header": "Spørgsmål til skriveugen",
+        "header": "Spørgsmål til Problemformulering og synopsis",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "instruktion": "Skriveugen er lige om hjørnet. Klik på emnerne her på siden og få svar på nogle af dine spørgsmål",
-        "Placering": "SKRIVEUGEN"
+        "Placering": "PROBLEMFORMULERING SYNOPSIS"
     },
     "faq": [
-    	["Er der krav til hvad Problemformuleringen skal handle om?", "Problemformuleringen skrives af din vejleder - den er for dig, der skal skrive opgaven, ukendt inden SSO-skriveugen. Der er ikke en fast skabelon for hvordan din vejleder udformer problemformuleringen. Hvis du er i tvivl om, hvordan den skal forstås, skal du kontakte din vejleder. Du har altid ret til at kontakte din vejleder om dette – også i selve skriveugen."],
-        ["Er der nogle ting du skal besvare?", "Du skal besvare hele problemformuleringen så fyldestgørende som muligt, inden for rammerne af 10-15 sider."],
-        ["Hvor meget skal være ens egen mening?", "I SSO’en skal du vise, at du er i stand til at foretage selvstændige analyser, fortolkninger og vurderinger af flere typer materialer. Herudover skal du ikke tilkendegive en mening i forhold til f.eks. religion, politisk overbevisning eller kulturelt tilhørsforhold."],
-        ["Hvad for nogle begreber skal bruges i SSO?", "Du bør anvende fagbegreber fra det/de fag, du skriver SSO i"],
-        ["Hvilke afsnit skal den være opbygget af?", "SSO’en skal have følgende elementer med (spørg dog din vejleder, da det kan variere fra fag til fag):<ol><li>Forside</li><li>Indholdsfortegnelse </li><li>Resumé på dansk (ca. 150 ord)</li><li>Indledning </li><li>Besvarelse af opgaveformulering (er typisk lavet med 2-4 underspørgsmål)</li><li>Konklusion </li><li>Litteraturliste </li><li>Evt. bilag</li></ol>"],
-        ["Kan man få hjælp fra andre end vejlederen?", "Du er naturligvis velkommen til at spørge familie, venner og bekendte til råds, hvis du går i stå i skriveugen. Nogle gange kan det, at få formuleret problemet og tale om det, være med til at bringe én videre, hvis man er gået i stå. Der er også hjælp at hente i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>skriveugeguiden</a>."],
-        ["Hvordan kan man disponere sin tid bedst?", "Du kan finde en masse gode råd om at strukturere dine skrivedage i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>guiden til skriveugen</a>."],
-        ["Er det muligt at få hjælp under skriveugen?", "Ja, du er velkommen til at kontakte din vejleder i løbet af skriveugen."],
-        ["Stiller skolen skriverum til rådighed?", "Det vil være forskelligt fra skole til skole. Spørg derfor din vejleder."],
-        ["Kan man få face-to-face vejledning i skriveugen?", "Det vil være forskelligt fra vejleder til vejleder. Du har mulighed for et møde, men i udgangspunktet skal du regne med, at kontakten vil være over mail eller telefon."]    
+    	["Hvad er en synopsis?", "En synopsis kan karakteriseres som en tekst, der ikke kan stå alene, men forudsætter en senere uddybning i en mundtlig præsentation og efterfølgende dialog. Synopsen udgør med andre ord ikke en fuldstændig besvarelse af opgaven. Synopsen er i modsætning til traditionelle opgavebesvarelser karakteriseret ved at være åben for uddybninger og tilføjelser, og den indeholder dele, som lægger op til dialog. Synopsen tjener desuden til at strukturere den efterfølgende mundtlige fremlæggelse, og synopsen fungerer herved som ”et talepapir”, der hjælper til at fastholde den røde tråd i fremlæggelsen."],
+        ["Hvilke formelle krav er det til synopsen?", "Der <i>skal</i> være følgende elementer i din synopsis: <ol><li>Titel på emne og angivelse af de to fag, der indgår i eksamensprojektet.</li><li>Problemformulering.</li><li>Oversigt over de problemstillinger (underspørgsmål), der er arbejdet med.</li><li>Præcisering af projektets delkonklusioner</li><li>Oversigt over, hvilke metoder der er anvendt i arbejdet.</li><li>Sammenfattende konklusion, herunder eventuelt formulering af spørgsmål til videre arbejde.</li><li>Oversigt over anvendte kilder</li></ol>"],
+        ["Skal synopsen skrives i stikord?", "Dele af synopsen kan du med fordel skrive i korte sætninger og stikord som du kan uddybe mundtligt. Det drejer sig først og fremmest om besvarelsen af dine underspørgsmål. Din problemformulering (hovedspørgsmål og underspørgsmål) og din konklusion skal skrives helt ud i prosatekst."],
+        ["Er det muligt at finde eksempler på synopser fra tidligere kursisters eksamensprojekter?", "Ja, her på siden kan du finde en række eksempler på synopser i de mest almindelige fagkombinationer."],
+        ["Hvor vigtig er synopsen? - bliver man bedømt på den?", "Synopsen er vigtig fordi du baserer din mundtlige eksamen på den. Den er udgangspunktet for eksamen og rummer dine faglige refleksioner over emnet – dine spørgsmål, dine metodeovervejelser, stikordene til dine besvarelser af spørgsmålene. I forbindelse med karaktergivning og bedømmelse af din eksamenspræstationen inddrages synopsen <i>ikke.</i>"],
+        ["Hvor lang skal synopsen være?", "Der er ikke krav til hvor lang synopsen skal være, men typisk har den et omfang på 2-3 sider fra indledning til konklusion. "],
+        ["Skal der være et redegørende, et analyserende og et diskuterende spørgsmål?", "Ja, det kan være en god ide, men du bør spørge din vejleder, da der er forskel på hvordan og hvorvidt fagene anvender taksonomi."],
+        ["Bliver problemformuleringen lavet af vejleder(e)?", "Nej, du skal selv lave din problemformulering. Den bliver til i dialog med din(e) vejleder(e), der også skal godkende den, men det er dig der skriver den."],
+        ["Skal man lave en litteraturliste?", "Ja, der skal være en oversigt over det materiale som du har brugt i forbindelse med udarbejdelsen af din synopsis. Denne oversigt placeres bagerst i synopsen."],
+        ["Skal man lave litteraturhenvisninger i synopsen?", "Nej, man skal blot have en liste over det anvendte materiale bagerst i synopsen."]    
     ]
 }
 
