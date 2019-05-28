@@ -11,8 +11,8 @@
         ["Hvilke fag kan man kombinere?", "Man kan kombinere frit mellem fag man er i gang med eller har afsluttet."],
         ["Hvilket niveau skal fagene være på?", "I arbejdet med Eksamensprojektet skal man arbejde på det højeste faglige niveau i fagene man er i gang med eller har afsluttet. Det kan være på A-, B- eller C-niveau."],
         ["Hvor meget skal man bruge hvert fag?", "Det er vigtigt at hvert fag er synligt i projektet og at de i væsentlig grad supplerer hinanden på en relevant faglig måde. Det ene fag må dog godt vægte mere end det andet."],
-        ["Er der nogle fag der er bedre at skrive Eksamensprojekt i end andre?", "Nej. Du bør vælge fag ud fra en kombination af faglig kompetence og lyst."],
-        ["Hvad vil det sige at Eksamensprojektet er tværfagligt?", "At Eksamensprojektet er tværfagligt vil sige at du skriver det i 2 fag, at din problemformulering skal kunne besvares ved hjælp af de to valgte fag i samspil. Det betyder også at du bør inddrage metoder og teorier og materiale fra begge de valgte fag."],
+        ["Er der nogle fag der er bedre at skrive Eksamensprojekt i end andre?", "Nej. Du bør vælge fag ud fra en kombination af faglig kompetence og interesse."],
+        ["Hvad vil det sige at Eksamensprojektet er tværfagligt?", "At Eksamensprojektet er tværfagligt vil sige at du arbejder med 2 fag, som i samspil skal kunne besvare din problemformulering. Det betyder også at du bør inddrage metoder og teorier og materiale fra begge de valgte fag."],
         ["Hvor bredt eller smalt skal emnet være?", "Det er en vigtig balance at ramme en faglig problemstilling som hverken begrænser dig i at vise dine faglige kompetencer, samtidig med at emnet ikke må blive for overfladisk behandlet. Du kan orientere dig her på siden for at få en ide om hvad et godt emne er og hvordan man laver problemformuleringer der hverken er for smalle eller for brede."],
         ["Skal man lave forsøg, og i så fald hvilke, hvis man skriver Eksamensprojekt i naturfag?", "Der er ikke noget krav om at der skal laves forsøg hvis der indgår en naturfag, men det kan være en mulighed som du bør tale nærmere med din vejleder om."],
         ["Kan man skifte emne?", "Ja, det er muligt at skifte emne frem til skolens interne deadline. Spørg din vejleder herom."],
@@ -20,6 +20,6 @@
         ["Må man skrive Eksamensprojekt i et emne som man tidligere har skrevet opgave om, fx SSO eller historieopgave?", "Nej, ikke det helt samme emne. Det er et krav at vinklen på emnet skal være ny. Det kan f.eks. være nyt materiale man undersøger, eller at der zoomes ind på specifikke aspekter af det allerede behandlede emne."],
         ["Hvor finder jeg materiale til mit Eksamensprojekt?", "Det er vigtigt at du først og fremmest sørger for at få lånt bøger på biblioteket, der omhandler dit emne. Hernæst kan du orientere dig i f.eks. videnskabelige artikler, dokumentarfilm, avisartikler m.v.  Spørg din vejleder hvis du er i tvivl om hvor du bedst finder relevant materiale."],
         ["Hvad er faglig relevant materiale?", "Hvis du er i tvivl om hvorvidt dit materiale er fagligt relevant bør du spørge din vejleder til råds."],
-        ["Må man bruge materiale på andre sprog?", "Ja, engelsk, tysk og fransk, samt de nordiske sprog."]
+        ["Må man bruge materiale på andre sprog?", "Du må gerne selv vælge at bruge materialer på engelsk, tysk og fransk, samt de nordiske sprog."]
     ]
 }
